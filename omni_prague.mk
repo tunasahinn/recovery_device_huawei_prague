@@ -34,7 +34,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     device/huawei/prague/dummykernel:kernel
 
-PRODUCT_NAME := omni_prague
+PRODUCT_NAME := prague
 PRODUCT_DEVICE := prague
 PRODUCT_BRAND := Huawei
 PRODUCT_MODEL := P8 Lite 2017
