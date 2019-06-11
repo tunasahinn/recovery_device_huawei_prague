@@ -20,7 +20,7 @@ DEVICE_PATH := device/huawei/prague
 TARGET_BOARD_PLATFORM := hi6250
 
 # Bootloader
-TARGET_BOOTLOADER_BOARD_NAME := hi6250
+TARGET_BOOTLOADER_BOARD_NAME := hisi
 TARGET_NO_BOOTLOADER := true
 
 # Architecture
