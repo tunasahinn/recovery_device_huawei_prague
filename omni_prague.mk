@@ -37,7 +37,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_NAME := omni_prague
 PRODUCT_DEVICE := prague
 PRODUCT_BRAND := Huawei
-PRODUCT_MODEL := P8 Lite 2017
+PRODUCT_MODEL := P8 lite 2017
 PRODUCT_MANUFACTURER := Huawei
 
 # Kernel inline build
